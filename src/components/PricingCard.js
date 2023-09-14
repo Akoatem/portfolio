@@ -13,9 +13,9 @@ const PricingCard = () => {
                 <span className="bar"></span>
                 <p className="btc">Django</p>
                 <p>React</p>
-                <p>Express</p>
+                <p>Express/Node JS</p>
                 <p>Flask</p>
-                <p>Node JS</p>
+                <p>WordPress</p>
                 <Link to="/contact" className="btn">HIRE ME</Link>
             </div>
             <div className="card">

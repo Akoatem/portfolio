@@ -59,7 +59,7 @@ const Footer = () => {
               <h5 className='text-center'>
                 <p>CopyRight&copy;2023 -Reserved || AkoAtem Web Developer</p>
               </h5>
-            </div>
+          </div>
     </div>
 
   )
