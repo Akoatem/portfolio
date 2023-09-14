@@ -2,7 +2,7 @@
 import { Link } from "react-router-dom/dist/umd/react-router-dom.development"
 import "./AboutContStyle.css"
 import ako2 from "../assets/ako2.jpg"
-//import ako1 from "../assets/ako1.jpg"
+import ako1 from "../assets/ako1.jpg"
 
 
 
@@ -28,9 +28,9 @@ const AboutContent = () => {
                 <div className="img-stack top">
                     <img src={ako2} className="ako" alt="atem" />
                 </div>
-               {/* <div className="img-stack bottom">
+               <div className="img-stack bottom">
                     <img src={ako1} className="ako" alt="atem" />
-                </div> */}
+                </div>
             </div>
         </div>
     </div>
