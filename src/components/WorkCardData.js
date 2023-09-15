@@ -23,7 +23,7 @@ const ProjectData = [
     {
         imgsrc: afde,
         title: "Happy Client Wordpress blog website ",
-        text: " A blog website designed using CMS wordpress amd elementor pro plugin. I have an excellent understanding of the inner working of wordpress where I am confortable with file manipulation, experience in how to create custom themes, navigating and using cPanel as well as file transfer protocol knowledge.",
+        text: " A blog website designed using CMS wordpress and elementor pro plugin. I have an excellent understanding of the inner working of wordpress where I am confortable with file manipulation, experience in how to create custom themes, navigating and using cPanel as well as file transfer protocol knowledge.",
         view: "https://www.afdi-ong.org/",
         source: ""
     },

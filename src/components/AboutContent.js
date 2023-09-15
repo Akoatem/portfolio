@@ -19,7 +19,7 @@ const AboutContent = () => {
                problem-solving and as well as being an entrepreneur. Having Advanced Diploma(degree) in communication network at Cape Peninsula University of technology. The urge and love for creativity propelled me to integrate in web development and other cutting edge technologies. Thanks to ALX which
                has equipped me with the knowledge and skills in various areas in the tech domains.</p>
             
-                <Link to="https://turquoise-rayna-15.tiiny.site">
+                <Link to="turquoise-rayna-15.tiiny.site">
                     <button className="btn">View Resume</button>
                 </Link>
         </div>
