@@ -15,7 +15,7 @@ const HeroImage = () => {
             <h1>I'm Full Stack Web Developer</h1>
             <div className="her-btns">
                 <Link to="/projects" className="btn">Projects</Link>
-                <Link to="turquoise-rayna-15.tiiny.site" className="btn btn-light">Hire Me</Link>
+                <Link to="https://turquoise-rayna-15.tiiny.site" className="btn btn-light">Hire Me</Link>
             </div>
         </div>
     </div>
