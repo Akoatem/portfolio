@@ -6,36 +6,42 @@ import React from 'react'
 const PricingCard = () => {
   return (
     <div className="pricing">
-        <h2>SKILLS & TECHNOLOGIES OFFERS</h2>
+        <h2>SKILLS & TECHNOLOGIES</h2>
         <div className="card-container">
             <div className="card">
-                <h3>WEB DEVELOPMENT</h3>
+                <h3>BACKEND DEVELOPER</h3>
                 <span className="bar"></span>
-                <p className="btc">Django</p>
-                <p>React</p>
-                <p>Express/Node JS</p>
+                <p className="btc">Express JS</p>
+                <p>Node JS</p>
+                <p>Python</p>
                 <p>Flask</p>
-                <p>WordPress</p>
+                <p>Java</p>
+                <p>MongoDB</p>
+                <p>PostgreSQL</p>
                 <Link to="/contact" className="btn">HIRE ME</Link>
             </div>
             <div className="card">
-                <h3>STACK</h3>
+                <h3>FRONTEND DEVELOPER</h3>
                 <span className="bar"></span>
-                <p className="btc">Python</p>
+                <p className="btc">React</p>
                 <p>Javascript</p>
                 <p>TypeScript</p>
-                <p>Java</p>
-                <p>C Programming</p>
+                <p>HTML</p>
+                <p>CSS</p>
+                <p>Bootstrap</p>
+                <p>Next JS</p>
                 <Link to="/contact" className="btn">HIRE ME</Link>
             </div>
             <div className="card">
-                <h3>DATABASES</h3>
+                <h3>DEVOPS ENGINEER</h3>
                 <span className="bar"></span>
-                <p className="btc">MongoDB</p>
-                <p>PostgreSQL</p>
-                <p>MySQL Advance</p>
-                <p>Redis</p>
-                <p>SQLAlchemy/ORM</p>
+                <p className="btc">Application Server</p>
+                <p>Shell Navigation</p>
+                <p>Docker</p>
+                <p>Git & GitHub</p>
+                <p>Web Server</p>
+                <p>Load Balance/Firewall</p>
+                <p>TTPS SSL/SSH</p>
                 <Link to="/contact" className="btn">HIRE ME</Link>
             </div>
         </div>
