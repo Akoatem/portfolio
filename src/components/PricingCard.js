@@ -9,39 +9,39 @@ const PricingCard = () => {
         <h2>SKILLS & TECHNOLOGIES</h2>
         <div className="card-container">
             <div className="card">
-                <h3>BACKEND DEVELOPER</h3>
+                <h3>STACK</h3>
                 <span className="bar"></span>
-                <p className="btc">Express JS</p>
-                <p>Node JS</p>
-                <p>Python</p>
-                <p>Flask</p>
-                <p>Java</p>
-                <p>MongoDB</p>
-                <p>PostgreSQL</p>
-                <Link to="/contact" className="btn">HIRE ME</Link>
-            </div>
-            <div className="card">
-                <h3>FRONTEND DEVELOPER</h3>
-                <span className="bar"></span>
-                <p className="btc">React</p>
-                <p>Javascript</p>
+                <p className="btc">Python</p>
+                <p>JavaScript</p>
                 <p>TypeScript</p>
-                <p>HTML</p>
-                <p>CSS</p>
+                <p>Java</p>
+                <p>C programming</p>
+                <p>Wordpress CMS</p>
                 <p>Bootstrap</p>
-                <p>Next JS</p>
                 <Link to="/contact" className="btn">HIRE ME</Link>
             </div>
             <div className="card">
-                <h3>DEVOPS ENGINEER</h3>
+                <h3>DATABASES</h3>
                 <span className="bar"></span>
-                <p className="btc">Application Server</p>
-                <p>Shell Navigation</p>
-                <p>Docker</p>
-                <p>Git & GitHub</p>
-                <p>Web Server</p>
-                <p>Load Balance/Firewall</p>
-                <p>TTPS SSL/SSH</p>
+                <p className="btc">MongoDB</p>
+                <p>MySQL</p>
+                <p>PostgreSQL</p>
+                <p>Redis</p>
+                <p>SQL Server</p>
+                <p></p>
+                <p></p>
+                <Link to="/contact" className="btn">HIRE ME</Link>
+            </div>
+            <div className="card">
+                <h3>FRAMEWORK</h3>
+                <span className="bar"></span>
+                <p className="btc">Django</p>
+                <p>Web Flask</p>
+                <p>Node JS</p>
+                <p>Express JS</p>
+                <p>React JS</p>
+                <p>Spring Boot</p>
+                <p>Next JS</p>
                 <Link to="/contact" className="btn">HIRE ME</Link>
             </div>
         </div>
