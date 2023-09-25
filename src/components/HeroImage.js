@@ -12,7 +12,7 @@ const HeroImage = () => {
         <div className="content">
             <p>Writing a program is something I’m very passionate and I strongly believe in team work and  collaboration.
                  I am willing to learn more so that  I can be better as time goes.</p>
-            <h1>I'm Backend Web Developer</h1>
+            <h1>I'm A Backend Web Developer</h1>
             <div className="her-btns">
                 <Link to="/projects" className="btn">Projects</Link>
                 <Link to="https://turquoise-rayna-15.tiiny.site" className="btn btn-light">Hire Me</Link>
