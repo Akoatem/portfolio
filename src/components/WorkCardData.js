@@ -8,7 +8,7 @@ const ProjectData = [
         imgsrc: mern,
         title: "Happy Client MERN Stack Ecommmece App",
         text: "Full stack ecommerce built for a client with payment intergration using braintreepayments for credit card and PayPal, and full functionalities for the back end and front end.User registration, login and reset password with security question. User's authentication, authorization, permission with complete dashboards. This app is developed using mongoDB, Express JS, React and Node JS at the backend, and JavaScript, HTML, CSS and Bootstrap for frontend ",
-        view: "https://real-rose-alligator-sari.cyclic.cloud/",
+        view: "https://fantastic-woolens-duck.cyclic.app/",
         source: "https://github.com/Akoatem/MERN_STACK_ECOMMERCE.git"
     },
 
