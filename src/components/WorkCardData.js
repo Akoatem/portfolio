@@ -1,7 +1,7 @@
 import ecom from "../assets/ecom.png"
 import ecom1 from "../assets/ecom1.png"
 import todo from "../assets/todo.png"
-//import ecom4 from "../assets/ecom4.png"
+import meal from "../assets/meal.png"
 
 const ProjectData = [
     {
@@ -28,13 +28,13 @@ const ProjectData = [
         source: "https://github.com/Akoatem/full_stack_ToDo_app_frontend.git"
     },
 
-    // {
-    //     imgsrc: ecom4,
-    //     title: "Integrated Ecommerce App with PayPal API",
-    //     text: " A complete ecommerce website developed using Django Framework  with many functionalities using PayPal API for payment for users and guest users. This app is developed using Python for backend, JavaScript, HTML and CSS for frontend",
-    //     view: "https://akotechnetservices.co.za/",
-    //     source: "https://github.com/Akoatem"
-    // },
+    {
+        imgsrc: meal,
+        title: "REST API Food Search App",
+        text: " An amazing Food search application that is able to display food according to letters, ingredients and meal search. This app is build using REST APIs, Vue JS 3 & Vite , JavaScript, HTML and Tailwind CSS",
+        view: "https://food-search-app-three.vercel.app/",
+        source: "https://github.com/Akoatem/Vue_Vite_JS_Food_Search_App.git"
+    },
 
     // {
     //     imgsrc: ecom1,
