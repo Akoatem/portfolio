@@ -8,7 +8,7 @@ const ProjectData = [
         imgsrc: ecom,
         title: " MERN Stack Ecommmece App",
         text: "Full stack ecommerce application with the most recent technologies and has many functionalities, payment gateway, users dashboard, admin dashboard, order tracking, users' authentication, authorization and permission role, JTW token. Backend mongoDB, node js, express js and the frontend react js, javascript, html, css and bootstrap.",
-        view: "https://fantastic-woolens-duck.cyclic.app/",
+        view: "https://zany-pink-boa.cyclic.app/",
         source: "https://github.com/Akoatem/MERN_STACK_ECOMMERCE.git"
     },
 
