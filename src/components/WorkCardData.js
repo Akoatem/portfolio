@@ -2,6 +2,7 @@ import ecom from "../assets/ecom.png"
 import ecom1 from "../assets/ecom1.png"
 import todo from "../assets/todo.png"
 import meal from "../assets/meal.png"
+import tour1 from "../assets/tour1.png"
 
 const ProjectData = [
     {
@@ -10,6 +11,14 @@ const ProjectData = [
         text: "Full stack ecommerce application with the most recent technologies and has many functionalities, payment gateway, users dashboard, admin dashboard, order tracking, users' authentication, authorization and permission role, JTW token. Backend mongoDB, node js, express js and the frontend react js, javascript, html, css and bootstrap.",
         view: "https://zany-pink-boa.cyclic.app/",
         source: "https://github.com/Akoatem/MERN_STACK_ECOMMERCE.git"
+    },
+
+    {
+        imgsrc: tour1,
+        title: "Travel Booking Tour App",
+        text: " Full mern stack tours & travels booking website using react js, node js,  express js, MongoDB, JWT, cookies from scratch with modern UI and UX with admin dashboard to create, update and delete booking.Users are able to create an account, login and book a tour to any destination in the world. The frontend use of javascript, html, css",
+        view: "https://frontend-travel-booking.onrender.com",
+        source: "https://github.com/Akoatem/frontend_travel_booking-.git"
     },
 
     {
@@ -31,7 +40,7 @@ const ProjectData = [
     {
         imgsrc: meal,
         title: "REST API Food Search App",
-        text: " An amazing Food search application that is able to display food according to letters, ingredients and meal search. This app is build using REST APIs, Vue JS 3 & Vite , JavaScript, HTML and Tailwind CSS",
+        text: " An amazing Food search application that is able to display food according to letters, ingredients and meal search with a source display videos where you can watch how to prepare a meal according to the recipes with all directives. This is a complete api application, this app is build using REST APIs, Vue JS 3 & Vite , JavaScript, HTML and Tailwind CSS",
         view: "https://food-search-app-three.vercel.app/",
         source: "https://github.com/Akoatem/Vue_Vite_JS_Food_Search_App.git"
     },
