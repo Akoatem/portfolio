@@ -3,6 +3,7 @@ import ecom1 from "../assets/ecom1.png"
 import todo from "../assets/todo.png"
 import meal from "../assets/meal.png"
 import tour1 from "../assets/tour1.png"
+import booking from "../assets/booking.png"
 
 const ProjectData = [
     {
@@ -45,13 +46,13 @@ const ProjectData = [
         source: "https://github.com/Akoatem/Vue_Vite_JS_Food_Search_App.git"
     },
 
-    // {
-    //     imgsrc: ecom1,
-    //     title: "Integrated Ecommerce App with PayPal API",
-    //     text: " A complete ecommerce website developed using Django Framework  with many functionalities using PayPal API for payment for users and guest users. This app is developed using Python for backend, JavaScript, HTML and CSS for frontend",
-    //     view: "https://akotechnetservices.co.za/",
-    //     source: "https://github.com/Akoatem"
-    // },
+    {
+        imgsrc: booking,
+        title: "Hotels BnB App",
+        text: "Hotels BnB application using MERN stack and custom api where users can search for hotels, resort, holiday apartment around the world and book. Admin dashboard to create, update, delete and search hotels, room and users.Users' signup and login with secure JWT token. Backend node js, express, and frontend react, javascript, html, and bootstrap for the admin",
+        view: "https://hotel-booking-bnb-app.onrender.com/",
+        source: "https://github.com/Akoatem"
+    },
 
     // {
     //     imgsrc: ecom3,
