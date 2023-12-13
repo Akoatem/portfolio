@@ -4,6 +4,7 @@ import todo from "../assets/todo.png"
 import meal from "../assets/meal.png"
 import tour1 from "../assets/tour1.png"
 import booking from "../assets/booking.png"
+import gpt3 from "../assets/gpt3.png"
 
 const ProjectData = [
     {
@@ -54,13 +55,13 @@ const ProjectData = [
         source: "https://github.com/Akoatem"
     },
 
-    // {
-    //     imgsrc: ecom3,
-    //     title: "Integrated Ecommerce App with PayPal API",
-    //     text: " A complete ecommerce website developed using Django Framework  with many functionalities using PayPal API for payment for users and guest users. This app is developed using Python for backend, JavaScript, HTML and CSS for frontend",
-    //     view: "https://akotechnetservices.co.za/",
-    //     source: "https://github.com/Akoatem"
-    // }
+    {
+        imgsrc: gpt3,
+        title: "GPT3-Frontend Application",
+        text: "This is a simple GPT3 app designed using figma, modern UX and UI in react. A complete frontend app using JavaScript, HTML, CSS, bootstrap and deployed in render.com",
+        view: "https://gpt3-app-frontend.onrender.com/",
+        source: "https://github.com/Akoatem/gpt3_app.git"
+    }
 ]
 
 export default ProjectData
