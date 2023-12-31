@@ -54,10 +54,10 @@ const ProjectData = [
         view: "https://food-search-app-three.vercel.app/",
         source: "https://github.com/Akoatem/Vue_Vite_JS_Food_Search_App.git"
     },
-    
+
       {
         imgsrc: admin,
-        title: "Admin Dashboard-Frontend ",
+        title: "Admin Dashboard ",
         text: "An admin dashboard application built from scratch in react JS which can be easily integrated to the backend and client side and can be used to create users, products and show analytics, sale and others. Using frontend language javascript, html and css and material UI in react framework.",
         view: "https://admindashboard-react-app.onrender.com/",
         source: "https://github.com/Akoatem/Admin_dashboard_react_app.git"
