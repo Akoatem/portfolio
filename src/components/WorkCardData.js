@@ -5,6 +5,7 @@ import meal from "../assets/meal.png"
 import tour1 from "../assets/tour1.png"
 import booking from "../assets/booking.png"
 import gpt3 from "../assets/gpt3.png"
+import admin from "../assets/admin.png"
 
 const ProjectData = [
     {
@@ -32,13 +33,20 @@ const ProjectData = [
     },
 
     {
+        imgsrc: booking,
+        title: "Hotels-MERN Stack App",
+        text: "Hotels BnB application using MERN stack and custom api where users can search for hotels, resort, holiday apartment around the world and book. Admin dashboard to create, update, delete and search hotels, room and users.Users' signup and login with secure JWT token. Backend node js, express, and frontend react, javascript, html, and bootstrap for the admin",
+        view: "https://hotel-booking-bnb-app.onrender.com/",
+        source: "https://github.com/Akoatem"
+    },
+
+    {
         imgsrc: todo,
         title: "Full stack ToDo Application ",
         text: "A complete full stack ToDo application which perform all the CRUD operations, users are able to fetch, create, update and delete items from the lists using it own APIs endpoint from the router. This application is fully functional and built with mongoDB for database, express js, node js for the backend and react, javascript, html and css for the frontend.",
         view: "https://full-stack-to-do-app-frontend-two.vercel.app/",
         source: "https://github.com/Akoatem/full_stack_ToDo_app_frontend.git"
     },
-
     {
         imgsrc: meal,
         title: "REST API Food Search App",
@@ -46,13 +54,13 @@ const ProjectData = [
         view: "https://food-search-app-three.vercel.app/",
         source: "https://github.com/Akoatem/Vue_Vite_JS_Food_Search_App.git"
     },
-
-    {
-        imgsrc: booking,
-        title: "Hotels BnB App",
-        text: "Hotels BnB application using MERN stack and custom api where users can search for hotels, resort, holiday apartment around the world and book. Admin dashboard to create, update, delete and search hotels, room and users.Users' signup and login with secure JWT token. Backend node js, express, and frontend react, javascript, html, and bootstrap for the admin",
-        view: "https://hotel-booking-bnb-app.onrender.com/",
-        source: "https://github.com/Akoatem"
+    
+      {
+        imgsrc: admin,
+        title: "Admin Dashboard-Frontend ",
+        text: "An admin dashboard application built from scratch in react JS which can be easily integrated to the backend and client side and can be used to create users, products and show analytics, sale and others. Using frontend language javascript, html and css and material UI in react framework.",
+        view: "https://admindashboard-react-app.onrender.com/",
+        source: "https://github.com/Akoatem/Admin_dashboard_react_app.git"
     },
 
     {
