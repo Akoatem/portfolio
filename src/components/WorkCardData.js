@@ -27,7 +27,7 @@ const ProjectData = [
 
     {
         imgsrc: auth,
-        title: "Authen App Full Stack App",
+        title: "Authentication App Full Stack App",
         text: " This is a full-stack web application built with the MERN (MongoDB, Express, React, Node.js) stack.i made use of firebase for google authentication and picture upload, react redux and reducers to make it dynamic, It includes authentication features that allow users to sign up, log in, and log out, and provides access to protected routes.",
         view: "https://mern-auth-xtn8.onrender.com/",
         source: "https://github.com/Akoatem/mern_auth.git"
